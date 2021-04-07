@@ -44,7 +44,7 @@ class MyStreamListener(tweepy.StreamListener):
         dt = status.created_at.strftime("%H:%M:%S")
         auth = status.author.screen_name
 
-        print(f"{dt} -- {txt}")
+        logging.info(f"{dt} -- {txt}")
 
         # mirror only the relevant tweets
         if any(plyr in txt for plyr in self.PLAYERS_TO_TRACK) and (auth == "FantasyLabsNBA"):
