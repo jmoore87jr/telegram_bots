@@ -1,0 +1,18 @@
+# using top 50 BPM for now
+PLAYERS_TO_TRACK = ['Nikola Jokic', 'Giannis Antetokounmpo', 'Joel Embiid',
+                    'LeBron James', 'Stephen Curry', 'Jimmy Butler',
+                    'Luka Doncic', 'Kawhi Leonard', 'James Harden',
+                    'Damian Lillard', 'Nikola Vucevic', 'Bam Adebayo',
+                    'Zion Williamson', 'Kyrie Irving', 'Joe Ingles',
+                    'Karl-Anthony Towns', 'Rudy Gobert', 'Tobias Harris',
+                    'Bradley Beal', 'Paul George', 'Chris Paul', 
+                    'Julius Randle', 'Shai Gilgeous-Alexander', 'Jrue Holiday',
+                    'Thaddeus Young', 'Mike Conley', 'DeMar DeRozan',
+                    'Donovan Mitchell', 'Jayson Tatum', 'Chris Boucher',
+                    'Zach LaVine', 'Trae Young', 'Montrezl Harrell',
+                    'Domantas Sabonis', 'Mikal Bridges', 'Clint Capela',
+                    'Kyle Anderson', 'LaMelo Ball', 'Jaylen Brown',
+                    'Delon Wright', 'Brandon Ingram', 'Jarrett Allen',
+                    'Fred VanVleet', 'Michael Porter Jr.', 'Ben Simmons',
+                    'John Collins', 'Kristaps Porzingis', 'Terry Rozier',
+                    'Jamal Murray', 'T.J. McConnell']
