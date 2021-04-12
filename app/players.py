@@ -15,4 +15,5 @@ PLAYERS_TO_TRACK = ['Nikola Jokic', 'Giannis Antetokounmpo', 'Joel Embiid',
                     'Delon Wright', 'Brandon Ingram', 'Jarrett Allen',
                     'Fred VanVleet', 'Michael Porter Jr.', 'Ben Simmons',
                     'John Collins', 'Kristaps Porzingis', 'Terry Rozier',
-                    'Jamal Murray', 'T.J. McConnell']
+                    'Jamal Murray', 'T.J. McConnell', 'D\'Angelo Russell',
+                    'Myles Turner', 'Malcolm Brogdon', 'Dejounte Murray']
